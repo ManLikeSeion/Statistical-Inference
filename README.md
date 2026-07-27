@@ -48,3 +48,12 @@ To run the analysis notebook, the following Python libraries are required:
 * `matplotlib.pyplot`
 * `scipy.optimize` (specifically `curve_fit`)
 * `scipy.stats` (specifically `chi2` and `multivariate_normal`)
+
+---
+
+## Results
+Here is an example best fit from the dummy data 
+<img width="1000" height="600" alt="examplebestfit" src="https://github.com/user-attachments/assets/3033d984-9471-4c11-9cef-4adcfffc2cce" />
+
+and here is an example pull of all the statistical data for similar sets of toy data
+<img width="1500" height="800" alt="pulls" src="https://github.com/user-attachments/assets/347d2ed3-220b-4201-bb78-63f80040ab13" />
